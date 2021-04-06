@@ -1,0 +1,3 @@
+displayName = Craft Anywhere
+author = Nick Grief
+version = 1.0

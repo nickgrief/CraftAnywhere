@@ -1,0 +1,2 @@
+This mod makes it so you don't need any crafting stations or water/honey/lava sources.
+Works with Magic Storage mod.
